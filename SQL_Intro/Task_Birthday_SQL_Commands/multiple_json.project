@@ -1,0 +1,23 @@
+[
+    {
+        "eventdate": "10-05-2023",
+        "eventname": "marriage",
+        "eventlocation": "ongole",
+        "budget": 1200000,
+        "guestlist": 1200
+        },
+        {
+        "eventdate": "18-04-2023",
+        "eventname": "festival",
+        "eventlocation": "Vijayawada",
+        "budget": 200000,
+        "guestlist": 50
+        },
+        {
+         "eventdate": "27-06-2023",
+        "eventname": "newyear",
+        "eventlocation": "vizag",
+        "budget": 550000,
+        "guestlist": 100 
+        }
+]
